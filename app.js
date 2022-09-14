@@ -47,5 +47,5 @@ document
     }
   });
   
-weather.fetchWeather("Denmark");
+weather.fetchWeather("Abuja");
 
